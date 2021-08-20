@@ -1,9 +1,9 @@
-.. project2 documentation master file, created by
-   sphinx-quickstart on Fri Aug 20 10:23:28 2021.
+.. doc-demo documentation master file, created by
+   sphinx-quickstart on Fri Aug 20 10:28:31 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to project2's documentation!
+Welcome to doc-demo's documentation!
 ====================================
 
 .. toctree::
